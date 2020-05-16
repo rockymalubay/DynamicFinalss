@@ -6,7 +6,7 @@ import OptionsButton from '../../comps/OptionsButton';
 import Menu from '../../comps/Menu';
 import MenuButton from '../../comps/MenuButton';
 import '../QuestionPages/questionPages.css';
-import './qPage_4.css';
+import './qpage_4.css';
 import QuImage from './Question4.png';
 import { useGlobalState } from '../../providers/GlobalStateProvider'
 
