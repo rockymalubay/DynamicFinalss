@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.bodyCopy{
+    font-size: 5;
+    color: "black";
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}

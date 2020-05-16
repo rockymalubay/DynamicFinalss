@@ -1,0 +1,16 @@
+.arrow_button_box{
+    display: inline-flex;
+    border: #707070 2px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Lato;
+    background-color:#72B1E6;
+    width: 70px;
+    height: 31px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    box-shadow: 1px 1px 5px rgb(92, 65, 65);
+    margin: 5px;
+    cursor: pointer;
+}

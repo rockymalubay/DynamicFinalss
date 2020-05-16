@@ -1,0 +1,21 @@
+.options_button_box{
+    display: inline-flex;
+    border: #707070 2px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Lato;
+    background-color:rgb(252, 121, 84);
+    width: 222px;
+    height: 44px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    box-shadow: 1px 1px 5px rgb(92, 65, 65);
+    margin: 5px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.options_button_box:focus{
+    border: 2px solid greenyellow;
+}

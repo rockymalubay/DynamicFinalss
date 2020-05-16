@@ -1,0 +1,13 @@
+.imagePo img{
+    width: 200px;
+    height: 200px;
+    border-radius: 130px;
+    padding: 5px;
+}
+
+.pageContainer {
+    position: relative;
+    left:0%;
+    opacity: 0;
+    transition: left 1s, opacity 1s;
+}

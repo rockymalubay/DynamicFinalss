@@ -1,0 +1,70 @@
+body, html {
+    margin: 0;
+    background: linear-gradient(#5fcc72 0%, rgba(77, 221, 226, 0.47) 100%);
+    overflow-x: hidden;
+}
+.pageContainer{
+    height: 911px;
+    position: relative;
+    right: -100%;
+    transition: right 1s;
+}
+
+.hotlineBox{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    width: 100%;
+    margin-top: 120px;
+}
+
+.sendButton{
+    display: inline-flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    position: relative;
+    right: 80px;
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+.inputComp{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hotlineBox > div {
+    display: inline-flex;
+    justify-content: left;
+    align-items: left;
+    margin-bottom: 30px;
+}
+
+.callIcon{
+    color: #FC7753;
+    width: 40px;
+    height: 40px;
+    border: #FC7753 solid 2px;
+    border-radius: 60%;
+    padding: 10px;
+    margin: 10px;
+}
+
+#inputSize{
+    height: 50px !important;
+}
+.email{
+    margin-left: 15px;
+    margin-top: 60px;
+}
+
+.inputBox{
+    border: #707070 2px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgb(92, 65, 65);
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}

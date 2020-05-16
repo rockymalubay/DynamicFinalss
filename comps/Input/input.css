@@ -1,0 +1,14 @@
+.input_box {
+    display: inline-flex;
+    border: #707070 2px;
+    border-radius: 5px;
+    width: 222px;
+    height: 20px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    box-shadow: 1px 1px 5px rgb(92, 65, 65);
+    margin: 5px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
